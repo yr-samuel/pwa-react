@@ -1,0 +1,12 @@
+.addTodoContainer {
+	display: flex;
+	justify-content: center;
+	gap: 0.5rem;
+}
+
+.list {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding-top: 1rem;
+}
